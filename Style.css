@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Toko Baju Wanita - Home</title>
+  <meta name="description" content="Toko baju wanita stylish dan modern. Belanja online baju wanita berkualitas dengan harga terjangkau.">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="produk.html">Produk</a>
+      <a href="tentang.html">Tentang Kami</a>
+      <a href="kontak.html">Kontak</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Baju Wanita Stylish & Modern</h1>
+      <p>Temukan koleksi terbaru kami yang nyaman dan modis.</p>
+      <a href="produk.html" class="cta">Lihat Produk</a>
+    </section>
+
+    <section class="profil">
+      <h2>Tentang Toko Kami</h2>
+      <p>Kami adalah usaha kecil yang menjual baju wanita berkualitas dengan harga terjangkau. Fokus pada kenyamanan dan gaya modern.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Toko Baju Wanita</p>
+  </footer>
+</body>
+</html>
